@@ -1,4 +1,4 @@
-# Dog Breed Image Gallery
+# Fetch - Front-end Internship Coding Exercise
 
 A React-based image gallery showcasing various dog breeds. Users can browse through the images of dog breeds, add them to their "favorites," and view their starred favorites in a separate section.
 
@@ -8,12 +8,6 @@ A React-based image gallery showcasing various dog breeds. Users can browse thro
 - View starred dog images by selecting the "Show Starred" option from the dropdown.
 - Hover over a dog image to get an enlarged view of the image.
 - Unstar a favorite image to remove it from the "Show Starred" section.
-
-## Technologies Used
-- **React**: JavaScript library for building user interfaces.
-- **Axios**: For making HTTP requests to the Dog CEO API.
-- **React Select**: For the dropdown component.
-- **React Icons**: For the icons used in the dropdown options.
 
 ## Getting Started
 
@@ -32,7 +26,7 @@ npm -v
 ### Installation
 
 #### Step 1: Clone the repository
-git clone <your-repository-url>
+git clone https://github.com/ankitamin8/Fetch_Front-end_OA.git
 
 #### Step 2: Install dependencies
 Install dependencies: After navigating to your project directory, install the necessary dependencies using npm:
